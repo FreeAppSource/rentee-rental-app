@@ -1,5 +1,7 @@
 # Rentee Rental App
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Rachelizmarvel** (credits below)
+
 A mobile room & property rental application built with **React Native**, **Expo SDK 58+**, and **Expo Router**, based on the Sketch UI Kit (`rentee-ui-kit-rachelizmarvel.sketch`).
 
 ## 🚀 Features & Completed Artboards
@@ -41,6 +43,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/rentee-rental-app> |
+
+<!-- developer:end -->
 
 ---
 
